@@ -1,0 +1,10 @@
+D:\FXBlog\FXBlog\FXCache\bin\Debug\FXCache.dll
+D:\FXBlog\FXBlog\FXCache\bin\Debug\FXCache.pdb
+D:\FXBlog\FXBlog\FXCache\obj\Debug\FXCache.dll
+D:\FXBlog\FXBlog\FXCache\obj\Debug\FXCache.pdb
+D:\FXBlog\FXBlog\FXCache\bin\Debug\Enyim.Caching.dll
+D:\FXBlog\FXBlog\FXCache\bin\Debug\Newtonsoft.Json.dll
+D:\FXBlog\FXBlog\FXCache\bin\Debug\Enyim.Caching.pdb
+D:\FXBlog\FXBlog\FXCache\bin\Debug\Enyim.Caching.xml
+D:\FXBlog\FXBlog\FXCache\bin\Debug\Newtonsoft.Json.xml
+D:\FXBlog\FXBlog\FXCache\obj\Debug\FXCache.csprojResolveAssemblyReference.cache
